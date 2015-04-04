@@ -1,7 +1,7 @@
 #####################################################################
 #  Purpose: Determine what is causing convergence errors in glmer
 #  Date: 08/06/2012
-#
+#  #
 ######################################################################
 library(lme4)
 setwd( 'C:/Users/janettik/Documents/tancredi')
